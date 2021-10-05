@@ -10,11 +10,11 @@ William Franco (Dev mobile).
 
 ## ScreenShots
 
-| Imagem 1 | Imagem 2 | Imagem 3 |
+| Image 1 | Image 2 | Image 3 |
 |----------|----------|----------|
 | ![example](screenshots/screen_1.png) | ![example](screenshots/screen_2.png) | ![example](screenshots/screen_3.png) |
 
-| Imagem 4 | Imagem 5 | Imagem 6 |
+| Image 4 | Image 5 | Image 6 |
 |----------|----------|----------|
 | ![example](screenshots/screen_4.png) | ![example](screenshots/screen_5.png) | ![example](screenshots/screen_6.png) |
 
