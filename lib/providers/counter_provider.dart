@@ -1,3 +1,5 @@
+import 'dart:developer';
+
 import 'package:encrypted_shared_preferences/encrypted_shared_preferences.dart';
 import 'package:flutter/material.dart';
 
@@ -35,6 +37,6 @@ class CounterProvider with ChangeNotifier {
   }
 
   void _debugProvider() {
-    print('Count: $_count');
+    log('Count: $_count');
   }
 }
